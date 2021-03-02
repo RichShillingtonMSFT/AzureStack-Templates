@@ -129,7 +129,7 @@
       "metadata": {
         "description": "Location of resources that the script is dependent on such as linked templates and DSC modules"
       },
-      "defaultValue": "https://raw.githubusercontent.com/RichShillingtonMSFT/AzureStack-Templates/tree/main/appservice-fileserver-sqlserver-ha-2019-2017"
+      "defaultValue": "https://github.com/RichShillingtonMSFT/AzureStack-Templates/tree/main/appservice-fileserver-sqlserver-ha-2019-2017"
     },
     "artifactsLocationSasToken": {
       "type": "securestring",
