@@ -75,11 +75,11 @@
         },
         "imageOffer": {
             "type": "string",
-            "defaultValue": "WindowsServer"
+            "defaultValue": "windowsserver"
         },
         "imageSKU": {
             "type": "string",
-            "defaultValue": "2016-Datacenter-Server-Core"
+            "defaultValue": "2019-Datacenter-Core"
         },
         "imageVersion": {
             "type": "string",
